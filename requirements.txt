@@ -1,0 +1,9 @@
+python>=3.11
+
+h5py
+scikit-learn
+numpy
+matplotlib
+seaborn
+tensorflow
+keras==3.14.1
