@@ -1,6 +1,6 @@
 # Dense and Convolutional Autoencoders for Real-Time Anomaly Detection and New Physics Searches at the LHC Level-1 Trigger
 
-## Final project for the Statistics and Data Analysis course, Academic Year 2025–2026
+## Final project for the Statistics and Data Analysis course, MSc in Physics, Academic Year 2025–2026
 
 ## Giorgio Cividini, Università degli Studi di Milano-Bicocca
 
