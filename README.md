@@ -1,6 +1,5 @@
-To download datasets visit the following link and download everything into the "data" folder
-
-https://cernbox.cern.ch/s/dxKXAXW9bZ6QobP
+Download the data folder
+[here](https://cernbox.cern.ch/s/9PCavcegMQaRs5m)
 
 ### Requirements:
 
