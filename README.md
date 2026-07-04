@@ -4,7 +4,6 @@
 
 ## Giorgio Cividini, Università degli Studi di Milano-Bicocca
 
-------------------------------------------------------------------
 
 Real-time anomaly detection at the Large Hadron Collider Level-1 Trigger is crucial for identifying
 new physics beyond the Standard Model. This report presents the results of a comparative study of
